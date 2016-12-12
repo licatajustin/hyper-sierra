@@ -1,7 +1,7 @@
 {
   "name": "hyper-sierra",
   "version": "0.1.0",
-  "description": "Hyperterm theme inspired by the Sierra Nevada",
+  "description": "Hyper theme inspired by the Sierra Nevada",
   "main": "index.js",
   "repository": "https://github.com/licatajustin/hyper-sierra.git",
   "keywords": [

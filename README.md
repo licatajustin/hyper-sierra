@@ -12,10 +12,10 @@ A dark theme for Hyper inspired by the Sierra Nevada.
 2. Update your list of plugins to include `hyper-sierra`, like this:
 
   ```javascript
-plugins: [
-     'hyper-sierra'
-]
-```
+  plugins: [
+    'hyper-sierra'
+  ]
+  ```
 3. Fully reload Hyper (`Cmd + Shift + R`)
 4. Profit!
 
